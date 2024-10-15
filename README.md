@@ -2,6 +2,7 @@
 
 <p align="left">My name is Renato Barbosa, and I am a passionate Full-Stack Developer with a solid foundation in building robust, scalable applications. <br>I excel at designing and implementing APIs, managing databases, and creating visually appealing, responsive user interfaces.</p>
 
+
 ###
 
 <h2 align="left">Status <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="20" height="20" /></h2>
